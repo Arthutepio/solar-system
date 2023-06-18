@@ -293,6 +293,8 @@ Parte do projeto foi desenvolvido pela [Trybe](https://app.betrybe.com/) e me fo
   * Será validado se é renderizado o texto recebido pela prop `destination`. 
 </details>
 
+Criado por [Trybe](https://www.betrybe.com/) e desenvolvido com ❤️ por [Arthur Costa](https://arthutepio-portifolio.vercel.app/) 😊
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/arthutepio/) [![Github](https://skillicons.dev/icons?i=github)](https://www.linkedin.com/in/arthutepio/) 
 ---
 
 ## 10. Renderize uma lista com as missões espaciais
